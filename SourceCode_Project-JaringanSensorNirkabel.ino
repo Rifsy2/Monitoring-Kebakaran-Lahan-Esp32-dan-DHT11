@@ -1,9 +1,9 @@
 #include <dummy.h>
 
 // Identitas project untuk platform Blynk
-#define BLYNK_TEMPLATE_ID "TMPL6_WQybm-C"
-#define BLYNK_TEMPLATE_NAME "Monitoring kebakaran"
-#define BLYNK_AUTH_TOKEN "8KFbpSsSd8FPdlF37Fdm1jSxwpysmejQ"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 // Library sensor & koneksi
 #include <WiFiClientSecure.h>
@@ -14,7 +14,7 @@
 #include <BlynkSimpleEsp8266.h>
 
 // ---------------- Telegram Configuration ----------------
-#define BOT_TOKEN "8308546966:AAEPQMMXUkosNmG56aVMXazsTvwGBy04m68"  
+#define BOT_TOKEN ""  
 
 
 String chatID[20];
